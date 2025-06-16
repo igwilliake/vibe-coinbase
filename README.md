@@ -4,3 +4,4 @@ Also, fix ChatGPT code errors.
 
 # License
 Use Freely if ChatGPT allows it.
+Code is provided as is, no liability accepted.
