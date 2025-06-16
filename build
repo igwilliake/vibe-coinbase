@@ -1,1 +1,1 @@
-g++ -g -std=c++17 -I/home/kbw/include vibe-coinbase.cpp -o vibe-coinbase -L/home/kbw/lib -lPocoNetd -lPocoNetSSLd -lPocoJSON -lPocoUtild -lPocoFoundationd
+g++ -g -std=c++17 -I/home/kbw/include vibe-coinbase.cpp -o vibe-coinbase -L/home/kbw/lib -lPocoNetd -lPocoNetSSLd -lPocoJSON -lPocoUtild -lPocoFoundationd -lcrypto

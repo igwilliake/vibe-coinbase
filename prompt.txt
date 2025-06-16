@@ -2,3 +2,4 @@ write a c++ program that connects to coinbase prime websockets
 api and receives hearbeats using the poco websocket library
 add code to subscribe for BTC prices
 make the code use coinbase prime rather than coinbase
+do not use Poco library in createSignature
